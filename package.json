@@ -1,0 +1,16 @@
+{
+  "name": "npm-typescript-executable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^3.0.2",
+    "typescript": "^2.2.1"
+  },
+  "bin": {
+    "hello-typescript": "./index.js"
+  }
+}
